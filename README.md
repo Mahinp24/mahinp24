@@ -9,17 +9,17 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently pursuing a B.S. in Computer Science
-- 🔒 Focused on Cybersecurity and Ethical Hacking
-- 🌱 Learning:
+- 🎓 Currently pursuing a B.S. in Computer Science  
+- 🔒 Focused on Cybersecurity and Ethical Hacking  
+- 🌱 Currently learning:
   - Python
   - C++
   - Java
   - Linux
   - Network Security
-  - Cloud Security
-- 🤝 Open to collaborating on open-source projects
-- 🎯 Goal: Build secure and innovative software solutions
+  - Cloud Security  
+- 🤝 Open to collaborating on open-source projects  
+- 🎯 Goal: Build secure, scalable, and innovative software systems  
 
 ---
 
@@ -37,41 +37,32 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Featured Projects
 
-![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Current Projects
-
-- 🔐 Cybersecurity Learning Labs
-- 🤖 AI & Automation Experiments
-- 🌐 Web Development Projects
-- 🛡️ Network Security Tools
-- 🎮 WORD QUEST Project → https://github.com/Mahinp24/-WORD-QUEST
+- 🎮 **WORD QUEST** → https://github.com/Mahinp24/-WORD-QUEST  
+- 🔐 Cybersecurity Learning Labs  
+- 🤖 AI & Automation Experiments  
+- 🌐 Web Development Projects  
+- 🛡️ Network Security Tools  
 
 ---
 
 ## 🏆 2026 Goals
 
-- Earn cybersecurity certifications
-- Contribute to open source
-- Build a cybersecurity portfolio
-- Participate in CTF competitions
-- Develop security-focused applications
+- Earn cybersecurity certifications  
+- Contribute to open source projects  
+- Build a strong cybersecurity portfolio  
+- Participate in CTF competitions  
+- Develop security-focused applications  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/Mahinp24  
 - LinkedIn: https://www.linkedin.com/in/mahi-patel-991895411/  
-- Email: mahipatelp44@gmail.com  
-- Portfolio: Coming Soon  
+- Email: **mahipatelp44@gmail.com**
 
 ---
 
-> "Security is not a product, but a process." – Bruce Schneier
+> 🛡️ "Security is not a product, but a process." – Bruce Schneier
