@@ -9,17 +9,17 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently pursuing a B.S. in Computer Science  
-- 🔒 Focused on Cybersecurity and Ethical Hacking  
-- 🌱 Currently learning:
+- 🎓 Currently pursuing a B.S. in Computer Science
+- 🔒 Focused on Cybersecurity and Ethical Hacking
+- 🌱 Learning:
   - Python
   - C++
   - Java
   - Linux
   - Network Security
-  - Cloud Security  
-- 🤝 Open to collaborating on open-source projects  
-- 🎯 Goal: Build secure, scalable, and innovative software systems  
+  - Cloud Security
+- 🤝 Open to collaborating on open-source projects
+- 🎯 Goal: Build secure and innovative software solutions
 
 ---
 
@@ -40,20 +40,19 @@
 ## 🔥 Featured Projects
 
 - 🎮 **WORD QUEST** → https://github.com/Mahinp24/-WORD-QUEST  
+- 📊 **QuantView** → https://github.com/Mahinp24/QuantView
+- work in progress^^^
 - 🔐 Cybersecurity Learning Labs  
 - 🤖 AI & Automation Experiments  
-- 🌐 Web Development Projects  
 - 🛡️ Network Security Tools  
 
 ---
 
 ## 🏆 2026 Goals
 
-- Earn cybersecurity certifications  
-- Contribute to open source projects  
-- Build a strong cybersecurity portfolio  
-- Participate in CTF competitions  
-- Develop security-focused applications  
+- Earn cybersecurity certifications
+- Contribute to open source
+- Develop security-focused applications
 
 ---
 
@@ -61,8 +60,8 @@
 
 - GitHub: https://github.com/Mahinp24  
 - LinkedIn: https://www.linkedin.com/in/mahi-patel-991895411/  
-- Email: **mahipatelp44@gmail.com**
+- Email: mahipatelp44@gmail.com  
 
 ---
 
-> 🛡️ "Security is not a product, but a process." – Bruce Schneier
+> "Security is not a product, but a process." – Bruce Schneier
