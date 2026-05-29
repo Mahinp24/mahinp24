@@ -39,7 +39,7 @@
 
 ## 📈 GitHub Stats
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
@@ -51,6 +51,7 @@
 - 🤖 AI & Automation Experiments
 - 🌐 Web Development Projects
 - 🛡️ Network Security Tools
+- 🎮 WORD QUEST Project → https://github.com/Mahinp24/-WORD-QUEST
 
 ---
 
@@ -66,9 +67,10 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_WEBSITE
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: https://www.linkedin.com/in/mahi-patel-991895411/  
+- Email: mahipatelp44@gmail.com  
+- Portfolio: Coming Soon  
 
 ---
 
